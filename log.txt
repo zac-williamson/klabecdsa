@@ -1,0 +1,4 @@
+KLAB_OUT not set, defaulting to ./out/
+/mnt/c/Users/zacha/CreditMint/Projects/klab/evm-semantics
+Proof [1mSTARTING(B[m: SignatureRecovery_recoverSignature_pass_rough.k (with [33mstate logging(B[m)
+[31mProof 113 [1mREJECT(B[m: SignatureRecovery_recoverSignature_pass_rough.k (with [33mstate logging(B[m)
